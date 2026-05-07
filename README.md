@@ -1,48 +1,81 @@
-<div align="center">
+<h1 align="center">Hey 👋, I'm Yash Sant</h1>
 
-<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+<h3 align="center">
+Software Engineer • AI & Data Enthusiast • Cloud Engineer
+</h3>
 
-<h1>Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>, I'm Yash Sant</h1>
+<p align="center">
+Building scalable systems, exploring AI, and shipping cool things 🚀
+</p>
 
-  <h3>A passionate Python Developer & Cloud Engineer from India.</h3>
+---
 
-</div>
+## 👨‍💻 About Me
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=KryptonGuy.KryptonGuy)
-[![Github](https://img.shields.io/github/followers/KryptonGuy?label=Follow&style=social)](https://github.com/KryptonGuy)
+- 💼 Software Engineer from India
+- ☁️ Working with Cloud, Backend & Data Systems
+- 🧠 Interested in AI, Data Engineering, and Distributed Systems
+- 🌱 Currently learning:
+  - AWS
+  - Data Engineering
+  - System Design
+  - Machine Learning
+- 🤝 Open to collaborating on:
+  - Open Source
+  - AI/ML Projects
+  - Backend Systems
+- ⚡ Fun fact:
+  I probably spend more time optimizing setups than actually using them 😭
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working as Cloud Enginner and Developer
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css,sql" />
+</p>
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering
+### Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" />
+</p>
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles
+### AI / Data
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-- 💬 Talk to me about Cloud, Python, Open Source, Machine Lerning, APIs
+---
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/KryptonGuy?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+## 📊 GitHub Stats
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/yash-sant'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-<a href = 'https://www.twitter.com/yaasssshhh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a>
-<a href = 'http://KryptonGuy.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>
-<a href = 'https://www.github.com/KryptonGuy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=KryptonGuy&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KryptonGuy&theme=tokyonight&hide_border=true" />
+</p>
 
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KryptonGuy&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
- ![Yash's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=KryptonGuy&theme=redical&hide_border=true&area=true)
-| ![Yash's github stats](https://github-readme-stats.vercel.app/api?username=KryptonGuy&show_icons=true&theme=radical)             | ![Yash's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KryptonGuy&theme=radical)                                                                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KryptonGuy&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=KryptonGuy&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) |
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yash-sant">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://github.com/KryptonGuy">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Keep building. Keep learning."</i>
+</p>
